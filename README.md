@@ -1,0 +1,2 @@
+
+The Password Resilience Analyzer was the final project for the "SFWRENG 2XC3 - Software Engineering Practice and Experience" course at McMaster University. Created in C, this software application evaluates password strength according to a set of established rules and guidelines. In the cybersecurity domain, strong passwords play a crucial role in protecting sensitive data from unauthorized access and potential security threats. This tool allows both individuals and organizations to assess the resilience of their passwords against both brute-force and advanced attacks.
