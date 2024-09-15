@@ -1,5 +1,8 @@
 # Password Resilience Analyzer
 
+**Author:** Kyle Andrade  
+**Last Modified:** 2024/01/23
+
 ## Overview
 
 The **Password Resilience Analyzer** evaluates password strength against various security guidelines, helping both individuals and organizations assess their passwords' resilience to brute-force and sophisticated attacks.
